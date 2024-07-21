@@ -1,0 +1,11 @@
+<services>
+    <service>
+        <name>test</name>
+        <address>localhost</address>
+    </service>
+
+    <service>
+        <name>DB</name>
+        <address>111.222.333.444</address>
+    </service>
+</services>

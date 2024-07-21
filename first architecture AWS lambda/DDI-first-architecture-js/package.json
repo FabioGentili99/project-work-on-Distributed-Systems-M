@@ -1,0 +1,16 @@
+{
+  "name": "ddi-first-architecture",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1628.0",
+    "mysql2": "^3.9.7",
+    "xml2js": "^0.6.2"
+  }
+}

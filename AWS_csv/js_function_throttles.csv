@@ -1,0 +1,10 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0
+StatusCode,Complete
+Messages,
+Full label,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-js Throttles Sum 60
+Label,Throttles
+2024/07/21 23:00:00,0
+2024/07/21 23:01:00,0
+2024/07/21 23:02:00,172
+2024/07/21 23:03:00,0
+2024/07/21 23:04:00,0

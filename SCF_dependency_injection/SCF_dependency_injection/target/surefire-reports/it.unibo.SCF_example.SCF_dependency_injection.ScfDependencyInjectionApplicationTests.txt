@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: it.unibo.SCF_example.SCF_dependency_injection.ScfDependencyInjectionApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.317 s -- in it.unibo.SCF_example.SCF_dependency_injection.ScfDependencyInjectionApplicationTests

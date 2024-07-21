@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ddifirstarchitecturejs;AccountKey=jMe+YK4BvKgqTxP2oim/GQprfpgskd3e6OdousIguJcGxydviKwzd2EbMo0ZuBnpJG1dZwlDnvm3+ASt71Erkg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~20",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=ddifirstarchitecturejs;AccountKey=jMe+YK4BvKgqTxP2oim/GQprfpgskd3e6OdousIguJcGxydviKwzd2EbMo0ZuBnpJG1dZwlDnvm3+ASt71Erkg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "ddi-first-architecture-js2ce813",
+    "WEBSITE_RUN_FROM_PACKAGE": "0",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "563c033d-2918-4bb2-9cf8-e0611bb17a39",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=563c033d-2918-4bb2-9cf8-e0611bb17a39;IngestionEndpoint=https://italynorth-0.in.applicationinsights.azure.com/;LiveEndpoint=https://italynorth.livediagnostics.monitor.azure.com/;ApplicationId=de72208e-c439-416f-932d-fcd06b374c7d",
+    "CosmosDbConnectionSetting": "AccountEndpoint=https://registry.documents.azure.com:443/;AccountKey=xegBV4RBjOaCvIUAKLeg1aBwL2kqQGtcJDH5HpMLfAJrgat8l4gnbUVkPg9ouwUv3ZxB7lL98lDIACDbejdGJg=="
+  }
+}

@@ -1,0 +1,12 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0,metric_alias_metrics_view_graph_1,metric_alias_metrics_view_graph_2
+StatusCode,Complete,Complete,Complete
+Messages,,,
+Full label,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-java3 Duration Minimum 60,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-java3 Duration Average 60,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-java3 Duration Maximum 60
+Label,Duration,Duration,Duration
+2024/09/08 14:04:00,20.27,1514.898,7374.12
+2024/09/08 14:05:00,17.16,36.296969687878764,94.31
+2024/09/08 14:06:00,13.75,87.04660714107139,6781.23
+2024/09/08 14:07:00,12.01,394.264452551095,7219.91
+2024/09/08 14:08:00,11.69,39.693532600543485,142.47
+2024/09/08 14:09:00,11.83,33.21917049493088,88.95
+2024/09/08 14:10:00,13.7,27.836403507017547,76.47

@@ -1,0 +1,1925 @@
+timestamp,message,logStreamName
+1725806276398,"2024/09/08 14:37:56 Read from DynamoDB table executed in 1474 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806276460,"2024/09/08 14:37:56 Read from DynamoDB table executed in 1460 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806277279,"2024/09/08 14:37:57 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806277308,"2024/09/08 14:37:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806277695,"2024/09/08 14:37:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806277702,"2024/09/08 14:37:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806278047,"2024/09/08 14:37:58 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806278051,"2024/09/08 14:37:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806278350,"2024/09/08 14:37:58 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806278369,"2024/09/08 14:37:58 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806278883,"2024/09/08 14:37:58 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806278893,"2024/09/08 14:37:58 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806279944,"2024/09/08 14:37:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806279946,"2024/09/08 14:37:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806280903,"2024/09/08 14:38:00 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806280905,"2024/09/08 14:38:00 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806281868,"2024/09/08 14:38:01 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806281891,"2024/09/08 14:38:01 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806282929,"2024/09/08 14:38:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806282930,"2024/09/08 14:38:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806283933,"2024/09/08 14:38:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806283949,"2024/09/08 14:38:03 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806284967,"2024/09/08 14:38:04 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806284967,"2024/09/08 14:38:04 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806285909,"2024/09/08 14:38:05 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806285915,"2024/09/08 14:38:05 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806286876,"2024/09/08 14:38:06 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806286885,"2024/09/08 14:38:06 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806287918,"2024/09/08 14:38:07 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806287945,"2024/09/08 14:38:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806288913,"2024/09/08 14:38:08 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806288938,"2024/09/08 14:38:08 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806289923,"2024/09/08 14:38:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806289932,"2024/09/08 14:38:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806290861,"2024/09/08 14:38:10 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806290869,"2024/09/08 14:38:10 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806291916,"2024/09/08 14:38:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806292910,"2024/09/08 14:38:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806293316,"2024/09/08 14:38:13 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806293316,"2024/09/08 14:38:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806293970,"2024/09/08 14:38:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806293987,"2024/09/08 14:38:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806294929,"2024/09/08 14:38:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806294930,"2024/09/08 14:38:14 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806295918,"2024/09/08 14:38:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806295922,"2024/09/08 14:38:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806296910,"2024/09/08 14:38:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806296940,"2024/09/08 14:38:16 Read from DynamoDB table executed in 29 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806297883,"2024/09/08 14:38:17 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806297885,"2024/09/08 14:38:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806298871,"2024/09/08 14:38:18 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806298916,"2024/09/08 14:38:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806299919,"2024/09/08 14:38:19 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806299923,"2024/09/08 14:38:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806300902,"2024/09/08 14:38:20 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806300933,"2024/09/08 14:38:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806301881,"2024/09/08 14:38:21 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806301908,"2024/09/08 14:38:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806302939,"2024/09/08 14:38:22 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806302948,"2024/09/08 14:38:22 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806303922,"2024/09/08 14:38:23 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806304886,"2024/09/08 14:38:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806305209,"2024/09/08 14:38:25 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806305217,"2024/09/08 14:38:25 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806305924,"2024/09/08 14:38:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806305927,"2024/09/08 14:38:25 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806306861,"2024/09/08 14:38:26 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806309988,"2024/09/08 14:38:29 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806310362,"2024/09/08 14:38:30 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806310371,"2024/09/08 14:38:30 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806310776,"2024/09/08 14:38:30 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806310780,"2024/09/08 14:38:30 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806311118,"2024/09/08 14:38:31 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806311124,"2024/09/08 14:38:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806311505,"2024/09/08 14:38:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806311507,"2024/09/08 14:38:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806311887,"2024/09/08 14:38:31 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806311888,"2024/09/08 14:38:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806312909,"2024/09/08 14:38:32 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806312911,"2024/09/08 14:38:32 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806313927,"2024/09/08 14:38:33 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806313930,"2024/09/08 14:38:33 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806314890,"2024/09/08 14:38:34 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806314907,"2024/09/08 14:38:34 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806315929,"2024/09/08 14:38:35 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806315965,"2024/09/08 14:38:35 Read from DynamoDB table executed in 11 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806316890,"2024/09/08 14:38:36 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806316892,"2024/09/08 14:38:36 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806317905,"2024/09/08 14:38:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806317913,"2024/09/08 14:38:37 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806318976,"2024/09/08 14:38:38 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806319018,"2024/09/08 14:38:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806319868,"2024/09/08 14:38:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806319869,"2024/09/08 14:38:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806320909,"2024/09/08 14:38:40 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806323966,"2024/09/08 14:38:43 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806324339,"2024/09/08 14:38:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806325298,"2024/09/08 14:38:45 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806325659,"2024/09/08 14:38:45 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806326731,"2024/09/08 14:38:46 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806327072,"2024/09/08 14:38:47 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806327075,"2024/09/08 14:38:47 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806327413,"2024/09/08 14:38:47 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806327472,"2024/09/08 14:38:47 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806327808,"2024/09/08 14:38:47 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806327848,"2024/09/08 14:38:47 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806328173,"2024/09/08 14:38:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806328193,"2024/09/08 14:38:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806328531,"2024/09/08 14:38:48 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806335591,"2024/09/08 14:38:55 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806336109,"2024/09/08 14:38:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806336152,"2024/09/08 14:38:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806336561,"2024/09/08 14:38:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806336608,"2024/09/08 14:38:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806336973,"2024/09/08 14:38:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806343988,"2024/09/08 14:39:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806344308,"2024/09/08 14:39:04 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806344309,"2024/09/08 14:39:04 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806344739,"2024/09/08 14:39:04 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806351692,"2024/09/08 14:39:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806352057,"2024/09/08 14:39:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806352067,"2024/09/08 14:39:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806352481,"2024/09/08 14:39:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806352486,"2024/09/08 14:39:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806352888,"2024/09/08 14:39:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806352905,"2024/09/08 14:39:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806353291,"2024/09/08 14:39:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806353293,"2024/09/08 14:39:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806353639,"2024/09/08 14:39:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806356670,"2024/09/08 14:39:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806356989,"2024/09/08 14:39:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806357003,"2024/09/08 14:39:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806357330,"2024/09/08 14:39:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806357330,"2024/09/08 14:39:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806357682,"2024/09/08 14:39:17 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806357690,"2024/09/08 14:39:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806358033,"2024/09/08 14:39:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806361082,"2024/09/08 14:39:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806361448,"2024/09/08 14:39:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806361449,"2024/09/08 14:39:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806361814,"2024/09/08 14:39:21 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806361826,"2024/09/08 14:39:21 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806362230,"2024/09/08 14:39:22 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806363199,"2024/09/08 14:39:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806363521,"2024/09/08 14:39:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806363536,"2024/09/08 14:39:23 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806363863,"2024/09/08 14:39:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806363869,"2024/09/08 14:39:23 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806364214,"2024/09/08 14:39:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806364220,"2024/09/08 14:39:24 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806364594,"2024/09/08 14:39:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806364597,"2024/09/08 14:39:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806364942,"2024/09/08 14:39:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806367950,"2024/09/08 14:39:27 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806368318,"2024/09/08 14:39:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806368319,"2024/09/08 14:39:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806368739,"2024/09/08 14:39:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806368749,"2024/09/08 14:39:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806369079,"2024/09/08 14:39:29 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806370118,"2024/09/08 14:39:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806370501,"2024/09/08 14:39:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806370510,"2024/09/08 14:39:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806370925,"2024/09/08 14:39:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806370926,"2024/09/08 14:39:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806371285,"2024/09/08 14:39:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806371303,"2024/09/08 14:39:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806371643,"2024/09/08 14:39:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806371691,"2024/09/08 14:39:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806372076,"2024/09/08 14:39:32 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806373086,"2024/09/08 14:39:33 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806373459,"2024/09/08 14:39:33 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806376485,"2024/09/08 14:39:36 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806377016,"2024/09/08 14:39:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806377017,"2024/09/08 14:39:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806377333,"2024/09/08 14:39:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806377333,"2024/09/08 14:39:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806377652,"2024/09/08 14:39:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806377657,"2024/09/08 14:39:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806377963,"2024/09/08 14:39:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806377973,"2024/09/08 14:39:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806378314,"2024/09/08 14:39:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806378316,"2024/09/08 14:39:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806378672,"2024/09/08 14:39:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806378676,"2024/09/08 14:39:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806379002,"2024/09/08 14:39:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806379017,"2024/09/08 14:39:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806379331,"2024/09/08 14:39:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806379333,"2024/09/08 14:39:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806379668,"2024/09/08 14:39:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806386712,"2024/09/08 14:39:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806387037,"2024/09/08 14:39:47 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806387046,"2024/09/08 14:39:47 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806387406,"2024/09/08 14:39:47 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806387407,"2024/09/08 14:39:47 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806387751,"2024/09/08 14:39:47 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806387760,"2024/09/08 14:39:47 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806388083,"2024/09/08 14:39:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806388091,"2024/09/08 14:39:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806388416,"2024/09/08 14:39:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806388446,"2024/09/08 14:39:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806388836,"2024/09/08 14:39:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806388836,"2024/09/08 14:39:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806389170,"2024/09/08 14:39:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806389173,"2024/09/08 14:39:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806389504,"2024/09/08 14:39:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806389505,"2024/09/08 14:39:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806389866,"2024/09/08 14:39:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806389900,"2024/09/08 14:39:49 Read from DynamoDB table executed in 5 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806390247,"2024/09/08 14:39:50 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806390248,"2024/09/08 14:39:50 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806390688,"2024/09/08 14:39:50 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806390690,"2024/09/08 14:39:50 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806391019,"2024/09/08 14:39:51 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806391020,"2024/09/08 14:39:51 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806391365,"2024/09/08 14:39:51 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806394399,"2024/09/08 14:39:54 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806394739,"2024/09/08 14:39:54 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806394743,"2024/09/08 14:39:54 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806395082,"2024/09/08 14:39:55 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806395091,"2024/09/08 14:39:55 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806395420,"2024/09/08 14:39:55 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806395441,"2024/09/08 14:39:55 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806395776,"2024/09/08 14:39:55 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806395782,"2024/09/08 14:39:55 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806396099,"2024/09/08 14:39:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806396122,"2024/09/08 14:39:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806396416,"2024/09/08 14:39:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806396416,"2024/09/08 14:39:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806396778,"2024/09/08 14:39:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806396803,"2024/09/08 14:39:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806397154,"2024/09/08 14:39:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806397161,"2024/09/08 14:39:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806397478,"2024/09/08 14:39:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806397480,"2024/09/08 14:39:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806397812,"2024/09/08 14:39:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806397812,"2024/09/08 14:39:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806398244,"2024/09/08 14:39:58 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806398246,"2024/09/08 14:39:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806398746,"2024/09/08 14:39:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806398768,"2024/09/08 14:39:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806399111,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806399117,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806399478,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806399486,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806399829,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806399861,"2024/09/08 14:39:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806406852,"2024/09/08 14:40:06 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806407187,"2024/09/08 14:40:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806407219,"2024/09/08 14:40:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806407222,"2024/09/08 14:40:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806407582,"2024/09/08 14:40:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806407585,"2024/09/08 14:40:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806407620,"2024/09/08 14:40:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806408973,"2024/09/08 14:40:08 Read from DynamoDB table executed in 1390 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806409379,"2024/09/08 14:40:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806409398,"2024/09/08 14:40:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806409408,"2024/09/08 14:40:09 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806410792,"2024/09/08 14:40:10 Read from DynamoDB table executed in 1382 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806411526,"2024/09/08 14:40:11 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806411526,"2024/09/08 14:40:11 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806411533,"2024/09/08 14:40:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806411534,"2024/09/08 14:40:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806411554,"2024/09/08 14:40:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806411944,"2024/09/08 14:40:11 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806411946,"2024/09/08 14:40:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806411946,"2024/09/08 14:40:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806411946,"2024/09/08 14:40:11 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806413308,"2024/09/08 14:40:13 Read from DynamoDB table executed in 1365 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806413710,"2024/09/08 14:40:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806413710,"2024/09/08 14:40:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806413714,"2024/09/08 14:40:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806413715,"2024/09/08 14:40:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806413746,"2024/09/08 14:40:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806413805,"2024/09/08 14:40:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806414165,"2024/09/08 14:40:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806414166,"2024/09/08 14:40:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806414167,"2024/09/08 14:40:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806414173,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806414180,"2024/09/08 14:40:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806414188,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806414548,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806414549,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806414575,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806414576,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806414596,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806414602,"2024/09/08 14:40:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806414603,"2024/09/08 14:40:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806415047,"2024/09/08 14:40:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806415056,"2024/09/08 14:40:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806415072,"2024/09/08 14:40:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806415072,"2024/09/08 14:40:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806415073,"2024/09/08 14:40:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806415084,"2024/09/08 14:40:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806416529,"2024/09/08 14:40:16 Read from DynamoDB table executed in 1440 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806416858,"2024/09/08 14:40:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806416858,"2024/09/08 14:40:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806416868,"2024/09/08 14:40:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806416869,"2024/09/08 14:40:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806416873,"2024/09/08 14:40:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806417893,"2024/09/08 14:40:17 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806419889,"2024/09/08 14:40:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806419909,"2024/09/08 14:40:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420248,"2024/09/08 14:40:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420257,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806420270,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806420280,"2024/09/08 14:40:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806420288,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806420292,"2024/09/08 14:40:20 Read from DynamoDB table executed in 11 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420318,"2024/09/08 14:40:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806420328,"2024/09/08 14:40:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420777,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806420782,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420784,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806420794,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806420796,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806420806,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806420814,"2024/09/08 14:40:20 Read from DynamoDB table executed in 6 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806420815,"2024/09/08 14:40:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806420831,"2024/09/08 14:40:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806421159,"2024/09/08 14:40:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806421170,"2024/09/08 14:40:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806421182,"2024/09/08 14:40:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806421184,"2024/09/08 14:40:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806421189,"2024/09/08 14:40:21 Read from DynamoDB table executed in 8 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806421194,"2024/09/08 14:40:21 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806421205,"2024/09/08 14:40:21 Read from DynamoDB table executed in 14 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806424215,"2024/09/08 14:40:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806428197,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806428500,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806428510,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806428627,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806428641,"2024/09/08 14:40:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806428644,"2024/09/08 14:40:28 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806428662,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806428695,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806428698,"2024/09/08 14:40:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806428706,"2024/09/08 14:40:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806428707,"2024/09/08 14:40:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806429060,"2024/09/08 14:40:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806429068,"2024/09/08 14:40:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806429083,"2024/09/08 14:40:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806429084,"2024/09/08 14:40:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806429087,"2024/09/08 14:40:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806429090,"2024/09/08 14:40:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806429092,"2024/09/08 14:40:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806429100,"2024/09/08 14:40:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806430054,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806430440,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1347 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806430852,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806430913,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806430933,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806430933,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806430937,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806430940,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806430945,"2024/09/08 14:40:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806430949,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806430958,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806430960,"2024/09/08 14:40:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806431287,"2024/09/08 14:40:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806431293,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806431296,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806431300,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806431319,"2024/09/08 14:40:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806431319,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806431319,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806431320,"2024/09/08 14:40:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806431321,"2024/09/08 14:40:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806432310,"2024/09/08 14:40:32 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806434290,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806434680,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806434715,"2024/09/08 14:40:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806434716,"2024/09/08 14:40:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806434778,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806434787,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806434794,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806434796,"2024/09/08 14:40:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806434797,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806434804,"2024/09/08 14:40:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806434817,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806434818,"2024/09/08 14:40:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806434825,"2024/09/08 14:40:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806435154,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806435164,"2024/09/08 14:40:35 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806435169,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806435197,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806435198,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806435200,"2024/09/08 14:40:35 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806435220,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806435227,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806435231,"2024/09/08 14:40:35 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806435232,"2024/09/08 14:40:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806436200,"2024/09/08 14:40:36 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806438220,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806438563,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806438573,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806438593,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806438597,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806438601,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806438615,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806438633,"2024/09/08 14:40:38 Read from DynamoDB table executed in 23 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806438646,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806438647,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806438651,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806438661,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806438667,"2024/09/08 14:40:38 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806438696,"2024/09/08 14:40:38 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439029,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439038,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806439045,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806439061,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806439067,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806439068,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439074,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806439081,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806439102,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806439106,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806439106,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806439117,"2024/09/08 14:40:39 Read from DynamoDB table executed in 13 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806439122,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439451,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439461,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806439469,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806439479,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806439485,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806439495,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806439501,"2024/09/08 14:40:39 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806439501,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806439516,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806439535,"2024/09/08 14:40:39 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806442498,"2024/09/08 14:40:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806442503,"2024/09/08 14:40:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806446496,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806446921,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806446932,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806446933,"2024/09/08 14:40:46 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806446936,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806446947,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806446947,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806446976,"2024/09/08 14:40:46 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806446987,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806446988,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806446988,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806446989,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806446991,"2024/09/08 14:40:46 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806448449,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1461 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806448873,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806448883,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806448894,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806448896,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806448902,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806448904,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806448912,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806448916,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806448927,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806448928,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806448929,"2024/09/08 14:40:48 Read from DynamoDB table executed in 7 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806448938,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806448949,"2024/09/08 14:40:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806448959,"2024/09/08 14:40:48 Read from DynamoDB table executed in 14 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806448970,"2024/09/08 14:40:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806449359,"2024/09/08 14:40:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806449368,"2024/09/08 14:40:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806449368,"2024/09/08 14:40:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806449372,"2024/09/08 14:40:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806449381,"2024/09/08 14:40:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806449399,"2024/09/08 14:40:49 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806449400,"2024/09/08 14:40:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806449401,"2024/09/08 14:40:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806449404,"2024/09/08 14:40:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806449406,"2024/09/08 14:40:49 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806449407,"2024/09/08 14:40:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806452335,"2024/09/08 14:40:52 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806452401,"2024/09/08 14:40:52 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806452404,"2024/09/08 14:40:52 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806456354,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806456800,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806456805,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806456814,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806456823,"2024/09/08 14:40:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806456827,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806456827,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806456828,"2024/09/08 14:40:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806456828,"2024/09/08 14:40:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806456839,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806456844,"2024/09/08 14:40:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806457198,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806457232,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806457257,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806457258,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806457262,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806457262,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806457276,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806457279,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806457287,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806457305,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806457306,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806457307,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806457307,"2024/09/08 14:40:57 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806457307,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806457307,"2024/09/08 14:40:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806458669,"2024/09/08 14:40:58 Read from DynamoDB table executed in 1360 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806459059,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806459078,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806459152,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806459153,"2024/09/08 14:40:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806459157,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806459163,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806459167,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806459177,"2024/09/08 14:40:59 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806459181,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806459182,"2024/09/08 14:40:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806459193,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806459207,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806459210,"2024/09/08 14:40:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806459214,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806459215,"2024/09/08 14:40:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806459215,"2024/09/08 14:40:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806462058,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806462462,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806462465,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806462474,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806462477,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806462480,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806462482,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806462487,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806462488,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806462495,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806462523,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806462525,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806462531,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806462541,"2024/09/08 14:41:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806462545,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806462554,"2024/09/08 14:41:02 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806462567,"2024/09/08 14:41:02 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806463455,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806463860,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806463861,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806463863,"2024/09/08 14:41:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806463863,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806463863,"2024/09/08 14:41:03 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806463897,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806463897,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806463900,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806463900,"2024/09/08 14:41:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806463911,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806463912,"2024/09/08 14:41:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806463914,"2024/09/08 14:41:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806463914,"2024/09/08 14:41:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806466872,"2024/09/08 14:41:06 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806466905,"2024/09/08 14:41:06 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806466908,"2024/09/08 14:41:06 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806467336,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806467338,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806467339,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806467339,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806467343,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806467345,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806467353,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806467376,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806467378,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806467380,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806467412,"2024/09/08 14:41:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806467415,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806467415,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806467417,"2024/09/08 14:41:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806468353,"2024/09/08 14:41:08 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806468358,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806468776,"2024/09/08 14:41:08 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806468788,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806468790,"2024/09/08 14:41:08 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806468791,"2024/09/08 14:41:08 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806468793,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806468794,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806468795,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806468796,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806468814,"2024/09/08 14:41:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806468817,"2024/09/08 14:41:08 Read from DynamoDB table executed in 26 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806471684,"2024/09/08 14:41:11 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806472020,"2024/09/08 14:41:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806472021,"2024/09/08 14:41:12 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806472022,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806472022,"2024/09/08 14:41:12 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806472022,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806472022,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806472023,"2024/09/08 14:41:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806472087,"2024/09/08 14:41:12 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806472090,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806472091,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806472092,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806472094,"2024/09/08 14:41:12 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806472095,"2024/09/08 14:41:12 Read from DynamoDB table executed in 5 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806472095,"2024/09/08 14:41:12 Read from DynamoDB table executed in 7 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806472101,"2024/09/08 14:41:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806473039,"2024/09/08 14:41:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806473049,"2024/09/08 14:41:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806473051,"2024/09/08 14:41:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806475025,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806475389,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806475394,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806475394,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806475411,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806475417,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806475426,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806475428,"2024/09/08 14:41:15 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806475429,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806475430,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806475433,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806475436,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806475456,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806475458,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806475460,"2024/09/08 14:41:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806475466,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806475470,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806475470,"2024/09/08 14:41:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806476404,"2024/09/08 14:41:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806476404,"2024/09/08 14:41:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806478404,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806478850,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806478854,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806478864,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806478866,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806478870,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806478876,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806478879,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806478883,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806478910,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806478911,"2024/09/08 14:41:18 Read from DynamoDB table executed in 14 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806478912,"2024/09/08 14:41:18 Read from DynamoDB table executed in 13 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806478914,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806478916,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806478928,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806478934,"2024/09/08 14:41:18 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806478935,"2024/09/08 14:41:18 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806479354,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806479359,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806479363,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806479372,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806479374,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806479374,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806479375,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806479378,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806479381,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806479381,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806479405,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806479415,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806479418,"2024/09/08 14:41:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806479422,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806479424,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806479433,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806479433,"2024/09/08 14:41:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806480297,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806480739,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806480741,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806480742,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806480746,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806480751,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806480753,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806480775,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806480776,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806480786,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806480807,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806480810,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806480827,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806480828,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806480828,"2024/09/08 14:41:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806480830,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806480830,"2024/09/08 14:41:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806481643,"2024/09/08 14:41:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806483672,"2024/09/08 14:41:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806483687,"2024/09/08 14:41:23 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806483694,"2024/09/08 14:41:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806484067,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806484069,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806484070,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806484089,"2024/09/08 14:41:24 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806484091,"2024/09/08 14:41:24 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806484091,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806484092,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806484092,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806484093,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806484100,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806484106,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806484119,"2024/09/08 14:41:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806484133,"2024/09/08 14:41:24 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806485535,"2024/09/08 14:41:25 Read from DynamoDB table executed in 1430 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806485873,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806485878,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806485903,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806485905,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806485906,"2024/09/08 14:41:25 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806485925,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806485928,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806485938,"2024/09/08 14:41:25 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806485941,"2024/09/08 14:41:25 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806485950,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806485956,"2024/09/08 14:41:25 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806485969,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806485970,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806485977,"2024/09/08 14:41:25 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806486870,"2024/09/08 14:41:26 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806486898,"2024/09/08 14:41:26 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806486904,"2024/09/08 14:41:26 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806488888,"2024/09/08 14:41:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489182,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489190,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806489283,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489284,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806489298,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806489300,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806489314,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806489316,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806489317,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]cbca40341ba44f828247b06b11246ed6
+1725806489318,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806489319,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806489319,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806489319,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806489319,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806489321,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489753,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489786,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806489787,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489787,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806489795,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806489809,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806489810,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806489812,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806489825,"2024/09/08 14:41:29 Read from DynamoDB table executed in 11 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806489855,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806489862,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806489871,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806489873,"2024/09/08 14:41:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806489873,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806489874,"2024/09/08 14:41:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806490755,"2024/09/08 14:41:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806491104,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806491113,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806491117,"2024/09/08 14:41:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806491121,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806491131,"2024/09/08 14:41:31 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806491133,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806491171,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806491172,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806491184,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806491187,"2024/09/08 14:41:31 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806492139,"2024/09/08 14:41:32 Read from DynamoDB table executed in 12 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806494106,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806494116,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806494127,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806494446,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806494449,"2024/09/08 14:41:34 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806494458,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806494460,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806494461,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806494469,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806494475,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806494487,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806494503,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806494517,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806494518,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806494522,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806494523,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806494526,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806494927,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806494940,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806494952,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806494964,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806494988,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806494992,"2024/09/08 14:41:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806494999,"2024/09/08 14:41:34 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806495001,"2024/09/08 14:41:35 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806495003,"2024/09/08 14:41:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806495006,"2024/09/08 14:41:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806495015,"2024/09/08 14:41:35 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806501956,"2024/09/08 14:41:41 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806502301,"2024/09/08 14:41:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806502312,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806502315,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806502323,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806502326,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806502356,"2024/09/08 14:41:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806502358,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806502358,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806502358,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806502358,"2024/09/08 14:41:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806502359,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806502360,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806502716,"2024/09/08 14:41:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806502716,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806502720,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9d1714c6fe5a4b4d9125ce96b8a7ea1f
+1725806502721,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806502725,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806502737,"2024/09/08 14:41:42 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806502745,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806502752,"2024/09/08 14:41:42 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806502753,"2024/09/08 14:41:42 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806502754,"2024/09/08 14:41:42 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806503110,"2024/09/08 14:41:43 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806503113,"2024/09/08 14:41:43 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806503118,"2024/09/08 14:41:43 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806503128,"2024/09/08 14:41:43 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806503129,"2024/09/08 14:41:43 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806503136,"2024/09/08 14:41:43 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806503138,"2024/09/08 14:41:43 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806503147,"2024/09/08 14:41:43 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806503149,"2024/09/08 14:41:43 Read from DynamoDB table executed in 12 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806504104,"2024/09/08 14:41:44 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806504550,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]9f1e33fc02c946d2b1ecdd7de76a334d
+1725806504556,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806504558,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806504560,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806504564,"2024/09/08 14:41:44 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806504566,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806504566,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806504573,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806504943,"2024/09/08 14:41:44 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]889610a3d87e41279056b6853c7e7003
+1725806504945,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]42075a119c714621a419cc6a080aa98f
+1725806504946,"2024/09/08 14:41:44 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]e79cb816696e446db0d897f58d8a1c9c
+1725806504949,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]e999b594a1f244abbc08a526d26d966a
+1725806504952,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806504955,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806504955,"2024/09/08 14:41:44 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806507944,"2024/09/08 14:41:47 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806508286,"2024/09/08 14:41:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806508298,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806508303,"2024/09/08 14:41:48 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806508317,"2024/09/08 14:41:48 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806508344,"2024/09/08 14:41:48 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806508357,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806508717,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806508756,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806508785,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806508808,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806508811,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806508819,"2024/09/08 14:41:48 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806509182,"2024/09/08 14:41:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806509195,"2024/09/08 14:41:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806509206,"2024/09/08 14:41:49 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806516151,"2024/09/08 14:41:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806516464,"2024/09/08 14:41:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806516466,"2024/09/08 14:41:56 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]00ef300ffde940c0beba01efa3d3dd8a
+1725806516474,"2024/09/08 14:41:56 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806517487,"2024/09/08 14:41:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806517851,"2024/09/08 14:41:57 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806517859,"2024/09/08 14:41:57 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806518155,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806518157,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806518455,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806518475,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806518962,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806518997,"2024/09/08 14:41:58 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806519337,"2024/09/08 14:41:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806519346,"2024/09/08 14:41:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806519657,"2024/09/08 14:41:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806519677,"2024/09/08 14:41:59 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806519980,"2024/09/08 14:41:59 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806520016,"2024/09/08 14:42:00 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806520364,"2024/09/08 14:42:00 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806520368,"2024/09/08 14:42:00 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806520736,"2024/09/08 14:42:00 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806520740,"2024/09/08 14:42:00 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806521096,"2024/09/08 14:42:01 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806522100,"2024/09/08 14:42:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806522427,"2024/09/08 14:42:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806522430,"2024/09/08 14:42:02 Read from DynamoDB table executed in 6 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806522816,"2024/09/08 14:42:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806522858,"2024/09/08 14:42:02 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806523172,"2024/09/08 14:42:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806523205,"2024/09/08 14:42:03 Read from DynamoDB table executed in 36 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806523577,"2024/09/08 14:42:03 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806523589,"2024/09/08 14:42:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806523915,"2024/09/08 14:42:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806523932,"2024/09/08 14:42:03 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806524281,"2024/09/08 14:42:04 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806527249,"2024/09/08 14:42:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806527604,"2024/09/08 14:42:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806527604,"2024/09/08 14:42:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806527966,"2024/09/08 14:42:07 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806527966,"2024/09/08 14:42:07 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806528344,"2024/09/08 14:42:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806528346,"2024/09/08 14:42:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806528877,"2024/09/08 14:42:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806528883,"2024/09/08 14:42:08 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806529210,"2024/09/08 14:42:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806529212,"2024/09/08 14:42:09 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806529614,"2024/09/08 14:42:09 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806529653,"2024/09/08 14:42:09 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806530001,"2024/09/08 14:42:10 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806532996,"2024/09/08 14:42:12 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806533346,"2024/09/08 14:42:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806533348,"2024/09/08 14:42:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806533664,"2024/09/08 14:42:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806533669,"2024/09/08 14:42:13 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806533992,"2024/09/08 14:42:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806533994,"2024/09/08 14:42:13 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806534317,"2024/09/08 14:42:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806534319,"2024/09/08 14:42:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806534701,"2024/09/08 14:42:14 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806534714,"2024/09/08 14:42:14 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806535028,"2024/09/08 14:42:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806535037,"2024/09/08 14:42:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806535368,"2024/09/08 14:42:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806535368,"2024/09/08 14:42:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806535698,"2024/09/08 14:42:15 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806535698,"2024/09/08 14:42:15 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806536045,"2024/09/08 14:42:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806536052,"2024/09/08 14:42:16 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806536401,"2024/09/08 14:42:16 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806539390,"2024/09/08 14:42:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806539708,"2024/09/08 14:42:19 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806539712,"2024/09/08 14:42:19 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806540050,"2024/09/08 14:42:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806540068,"2024/09/08 14:42:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806540358,"2024/09/08 14:42:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806540364,"2024/09/08 14:42:20 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806540812,"2024/09/08 14:42:20 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806541658,"2024/09/08 14:42:21 Read from DynamoDB table executed in 5 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806541954,"2024/09/08 14:42:21 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806541969,"2024/09/08 14:42:21 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806542297,"2024/09/08 14:42:22 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806543329,"2024/09/08 14:42:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806543653,"2024/09/08 14:42:23 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806544677,"2024/09/08 14:42:24 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806544992,"2024/09/08 14:42:24 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806546052,"2024/09/08 14:42:26 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806546382,"2024/09/08 14:42:26 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806546388,"2024/09/08 14:42:26 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806546824,"2024/09/08 14:42:26 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806546847,"2024/09/08 14:42:26 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806547189,"2024/09/08 14:42:27 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806548164,"2024/09/08 14:42:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806548522,"2024/09/08 14:42:28 Read from DynamoDB table executed in 3 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806548537,"2024/09/08 14:42:28 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806548875,"2024/09/08 14:42:28 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806548925,"2024/09/08 14:42:28 Read from DynamoDB table executed in 10 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806549285,"2024/09/08 14:42:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806549292,"2024/09/08 14:42:29 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806549647,"2024/09/08 14:42:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806549648,"2024/09/08 14:42:29 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806550001,"2024/09/08 14:42:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806550004,"2024/09/08 14:42:30 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806550325,"2024/09/08 14:42:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806550336,"2024/09/08 14:42:30 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806550659,"2024/09/08 14:42:30 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806553695,"2024/09/08 14:42:33 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806554020,"2024/09/08 14:42:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806554068,"2024/09/08 14:42:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806554371,"2024/09/08 14:42:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806554383,"2024/09/08 14:42:34 Read from DynamoDB table executed in 4 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806554773,"2024/09/08 14:42:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806554783,"2024/09/08 14:42:34 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806555094,"2024/09/08 14:42:35 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806556122,"2024/09/08 14:42:36 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806556457,"2024/09/08 14:42:36 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806556458,"2024/09/08 14:42:36 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806556816,"2024/09/08 14:42:36 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806556833,"2024/09/08 14:42:36 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806557192,"2024/09/08 14:42:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806557195,"2024/09/08 14:42:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806557525,"2024/09/08 14:42:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]62ee2367258c4743a21ee67979b9f297
+1725806557531,"2024/09/08 14:42:37 Read from DynamoDB table executed in 2 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806557850,"2024/09/08 14:42:37 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66
+1725806564859,"2024/09/08 14:42:44 Read from DynamoDB table executed in 1 ms
+",2024/09/08/[$LATEST]7abf60c22a9247cd8181ad0e3ed01b66

@@ -1,6 +1,2 @@
 # project-work-on-Distributed-Systems-M
-Chapters are organized as follow:
-1) FaaS
-2) dependency_injection
-3) FAAS PLATFORMS EVALUATION
-4) DI_in_serverless
+the aim of this work is to propose a first simple architecture to implement dependency injection in a FaaS scenario and to implement it on the main public cloud vendors

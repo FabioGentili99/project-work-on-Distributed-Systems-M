@@ -1,72 +1,39 @@
-import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
 import software.amazon.awssdk.regions.Region;
 import software.amazon.awssdk.services.dynamodb.DynamoDbClient;
-import software.amazon.awssdk.services.dynamodb.model.*;
+import software.amazon.awssdk.services.dynamodb.model.AttributeValue;
+import software.amazon.awssdk.services.dynamodb.model.DynamoDbException;
+import software.amazon.awssdk.services.dynamodb.model.GetItemRequest;
+import software.amazon.awssdk.services.dynamodb.model.PutItemRequest;
+import software.amazon.awssdk.services.dynamodb.model.PutItemResponse;
+import software.amazon.awssdk.services.dynamodb.model.ResourceNotFoundException;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 
-
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 public class Injector {
-    private String DYNAMODB_TABLE_NAME = "service-registry";
+    private String DYNAMODB_TABLE_NAME = "service-registry2";
     private static Injector _instance = null;
-    private Map<String, String> registry;
-    private String configFile;
     private DynamoDbClient connection;
 
-    private Injector(String configFile) {
-        this.configFile = configFile;
+    private Injector() {
         this.connection = DynamoDbClient.builder()
                 .region(Region.EU_NORTH_1)
                 .build();
-
-        if (this.configFile != null) {
-            try {
-                ClassLoader cl = getClass().getClassLoader();
-                File file = new File(cl.getResource(this.configFile).getFile());
-                DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-                DocumentBuilder db = dbf.newDocumentBuilder();
-                Document doc = db.parse(file);
-                doc.getDocumentElement().normalize();
-                NodeList nodeList = doc.getElementsByTagName("service");
-                for (int i = 0; i < nodeList.getLength(); i++) {
-                    Node node = nodeList.item(i);
-                    if (node.getNodeType() == Node.ELEMENT_NODE) {
-                        Element element = (Element) node;
-                        String name = element.getElementsByTagName("name").item(0).getTextContent();
-                        String address = element.getElementsByTagName("address").item(0).getTextContent();
-                        registerService(name, address);
-                    }
-                }
-            } catch (ParserConfigurationException | SAXException | IOException e) {
-                System.err.println(e);
-            }
-        }
     }
 
-    public static Injector getInstance(String configFile) {
+    public static Injector getInstance() {
         if (_instance == null) {
-            _instance = new Injector(configFile);
+            _instance = new Injector();
         }
         return _instance;
     }
 
-    public void registerService(String serviceName, String serviceAddress) {
+    public void registerService(String id, String serviceName, String serviceAddress) {
         Map<String, AttributeValue> item = new HashMap<>();
+        item.put("id", AttributeValue.builder().s(id).build());
         item.put("ServiceName", AttributeValue.builder().s(serviceName).build());
         item.put("ServiceAddress", AttributeValue.builder().s(serviceAddress).build());
 
@@ -89,11 +56,11 @@ public class Injector {
         }
     }
 
-    public String getService(String serviceName) {
+    public Map<String, AttributeValue> getService(String id) {
 
         HashMap<String, AttributeValue> keyToGet = new HashMap<>();
-        keyToGet.put("ServiceName", AttributeValue.builder()
-                .s(serviceName)
+        keyToGet.put("id", AttributeValue.builder()
+                .s(id)
                 .build());
 
         GetItemRequest request = GetItemRequest.builder()
@@ -103,10 +70,16 @@ public class Injector {
 
         Map<String, AttributeValue> returnedItem = new HashMap<>();
         try {
+
+    
+            long start = System.currentTimeMillis();
             // If there is no matching item, GetItem does not return any data.
             returnedItem = this.connection.getItem(request).item();
+            long end = System.currentTimeMillis();
+            long duration = end - start;
+            System.out.println("Read from DynamoDB table executed in " + (duration) + " ms");
             if (returnedItem.isEmpty())
-                System.out.format("No item found with the key %s!\n", serviceName);
+                System.out.format("No item found with the key %s!\n", id);
             else {
                 Set<String> keys = returnedItem.keySet();
                 System.out.println("Amazon DynamoDB table attributes: \n");
@@ -120,7 +93,7 @@ public class Injector {
             System.err.println(e.getMessage());
             System.exit(1);
         }
-        return returnedItem.get("ServiceAddress").s();//toString();
+        return returnedItem;
     }
 }
 

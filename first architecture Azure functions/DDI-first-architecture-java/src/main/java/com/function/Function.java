@@ -1,5 +1,9 @@
 package com.function;
 
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Optional;
 
 import com.microsoft.azure.functions.ExecutionContext;
@@ -26,17 +30,31 @@ public class Function {
                 authLevel = AuthorizationLevel.ANONYMOUS)
                 HttpRequestMessage<Optional<String>> request,
             final ExecutionContext context) {
-        //context.getLogger().info("Java HTTP trigger processed a request.");
-        //Injector injector = Injector.getInstance("services.xml", context);
-        Injector injector = Injector.getInstance("services.xml", context);
-
-        String address = injector.getService("test");
-
-
-        if (address == null) {
-            return request.createResponseBuilder(HttpStatus.BAD_REQUEST).body("service not found").build();
-        } else {
-            return request.createResponseBuilder(HttpStatus.OK).body(address).build();
+        try {
+            //context.getLogger().info("Java HTTP trigger processed a request.");
+            //Injector injector = Injector.getInstance("services.xml", context);
+            Injector injector = Injector.getInstance(context);
+            Service helloService = injector.getService("hello");
+            
+            URL url;
+            url = new URL(helloService.getServiceAddress());
+            long start = System.currentTimeMillis();
+            HttpURLConnection con = (HttpURLConnection) url.openConnection();
+            con.setRequestMethod("GET");
+            con.getResponseCode();
+            con.disconnect();
+            long end = System.currentTimeMillis();
+            
+            long duration = end - start;
+            context.getLogger().info("hello world function executed in " + (duration) + " ms");
+            
+            
+        } catch (MalformedURLException ex) {
+            return request.createResponseBuilder(HttpStatus.OK).body("error during execution").build();
+        } catch (IOException e) {
+            return request.createResponseBuilder(HttpStatus.OK).body("error during execution").build();
         }
+        return request.createResponseBuilder(HttpStatus.OK).body("execution completed with success").build();
+        
     }
 }

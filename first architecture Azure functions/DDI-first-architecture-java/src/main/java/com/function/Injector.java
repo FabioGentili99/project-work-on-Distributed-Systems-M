@@ -1,127 +1,103 @@
 package com.function;
+
+
+
+import java.util.logging.Logger;
+
 import com.azure.cosmos.CosmosClient;
 import com.azure.cosmos.CosmosClientBuilder;
 import com.azure.cosmos.CosmosContainer;
 import com.azure.cosmos.CosmosDatabase;
 import com.azure.cosmos.models.CosmosItemRequestOptions;
-import com.azure.cosmos.models.CosmosItemResponse;
 import com.azure.cosmos.models.PartitionKey;
 import com.microsoft.azure.functions.ExecutionContext;
+
 
 public class Injector {
     private static Injector instance;
     private final CosmosContainer container;
-    private final ExecutionContext context;
+    private Logger logger;
+    private final String endpoint = "https://registry.documents.azure.com:443/";
+    private final String key = "xegBV4RBjOaCvIUAKLeg1aBwL2kqQGtcJDH5HpMLfAJrgat8l4gnbUVkPg9ouwUv3ZxB7lL98lDIACDbejdGJg==";
 
-    private Injector(String configFile, ExecutionContext context) {
+    private Injector(ExecutionContext context) {
         CosmosClient client = new CosmosClientBuilder()
-                .endpoint("https://gheno.documents.azure.com:443/")
-                .key("NwH78y4U7TNbh14kQOVTTPHvqctk2CGtdAdktHf9FqHYcRtSnbVf6kyWHnef70zWQXc73FGMOqsOACDbNYfMqA==")
+                .endpoint(endpoint)
+                .key(key)
                 .buildClient();
 
         CosmosDatabase database = client.getDatabase("service-registry");
-        this.container = database.getContainer("service-registry2");
-        this.context = context;
-
-        if (configFile != null) {
-            loadConfig(configFile);
-        }
+        this.container = database.getContainer("service-registry4");    
+        this.logger = context.getLogger();    
     }
 
-    public static Injector getInstance(String configFile, ExecutionContext context) {
+    public static Injector getInstance(ExecutionContext context) {
         if (instance == null) {
-            instance = new Injector(configFile, context);
+            instance = new Injector(context);
+            return instance;
+        } else {
+            instance.logger = context.getLogger();
+            return instance;
         }
-        return instance;
     }
 
-    private void loadConfig(String configFile) {
-       
-        /* 
-        try {
-             
-                //ClassLoader cl = this.getClass().getClassLoader();
-                //File file = new File(cl.getResource(configFile).getFile());
-            
-                //String localFilePath = Paths.get(System.getenv("HOME"), "site", "wwwroot", "sample.xml").toString();
-                File file = new File(configFile);
-                DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-                DocumentBuilder db = dbf.newDocumentBuilder();
-                Document doc = db.parse(file);
-                doc.getDocumentElement().normalize();
-                NodeList nodeList = doc.getElementsByTagName("service");
-                for (int i = 0; i < nodeList.getLength(); i++) {
-                    Node node = nodeList.item(i);
-                    if (node.getNodeType() == Node.ELEMENT_NODE) {
-                        Element element = (Element) node;
-                        String name = element.getElementsByTagName("name").item(0).getTextContent();
-                        String address = element.getElementsByTagName("address").item(0).getTextContent();
-                        registerService(name, address);
-                    }
-                }
-            } catch (ParserConfigurationException | SAXException | IOException e) {
-                this.context.getLogger().info("" +e);
-            }
-        */
-        registerService("test","localhost");
-        registerService("DB","111.222.333.444");
-    }
 
-    private void registerService(String serviceName, String serviceUrl) {
+    private void registerService(String id, String serviceName, String serviceUrl) {
         try {
             Service item = new Service();
             item.setServiceAddress(serviceUrl);
-            item.setId(serviceName);
-            this.container.createItem(item,new PartitionKey(serviceName), new CosmosItemRequestOptions());
+            item.setId(id);
+            item.setServiceName(serviceName);
+            this.container.createItem(item,new PartitionKey(id), new CosmosItemRequestOptions());
         } catch (Exception e) {
-            this.context.getLogger().info("Error during service registration: "+ e.getMessage());
+            this.logger.info("Error during service registration: "+ e.getMessage());
         }
     }
 
-    public String getService(String serviceName) {
-        String address = "";
+    public Service getService(String id) {
         try {
             /* 
             CosmosQueryRequestOptions options = new CosmosQueryRequestOptions();
-            //options.setPartitionKey(new PartitionKey(serviceName));
+            //options.setPartitionKey(new PartitionKey(id));
             String query = "SELECT * FROM c WHERE c.id = @id";
-            List<SqlParameter> parameters = Collections.singletonList(new SqlParameter("@id", serviceName));
+            List<SqlParameter> parameters = Collections.singletonList(new SqlParameter("@id", id));
             SqlQuerySpec sqlQuerySpec = new SqlQuerySpec(query, parameters);
+
+            long start = System.currentTimeMillis();
             Iterable<FeedResponse<Service>> result = this.container.queryItems(sqlQuerySpec, options, Service.class).iterableByPage();
+            long end = System.currentTimeMillis();
+
+            this.context.getLogger().log(Level.INFO, "Read from DynamoDB table executed in " + (end-start) + " ms");
 
             for (FeedResponse<Service> item : result) {
                 List<Service> items = item.getResults();
                 for (Service x : items){
-                    if ( x.getServiceAddress() != null){
-                        address =  x.getServiceAddress();
-                    } else {
-                        address =  null;
+                    if ( x.getId().equals(id)){
+                        service = x;
                     }
                     
                 }
             }
             */
-            
-             
-                CosmosItemResponse<Service> response = this.container.readItem(
-                                                                                    serviceName,
-                                                                                    new PartitionKey(serviceName),
+                long start = System.currentTimeMillis();
+                Service service = this.container.readItem(
+                                                                                    id,
+                                                                                    new PartitionKey(id),
                                                                                     Service.class
-                                                                                );
+                                                                                ).getItem();
 
+                long end = System.currentTimeMillis();
+                this.logger.info("Read from DynamoDB table executed in " + (end-start) + " ms");
                 //this.context.getLogger().info("response: " +response.toString());
-                Service item = response.getItem();
-                this.context.getLogger().info("item: " + item.toString());
-                if (item.getServiceAddress() != null){
-                    address = item.getServiceAddress();
-                } else {
-                    address = null;
-                }
+
+            
+                this.logger.info("service: " + service.toString());
+                return service;
             
         } catch (Exception e) {
-            this.context.getLogger().severe( "Error during service retrieval: "+ e.getMessage());
+            this.logger.info("Error during service retrieval: "+ e.getMessage());
         }
-        return address;
+        return new Service();
         
     }
 

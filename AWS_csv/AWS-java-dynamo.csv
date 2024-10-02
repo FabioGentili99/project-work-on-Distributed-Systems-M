@@ -1,10 +1,4 @@
 timestamp,message,logStreamName
-1724851949452,"Read from DynamoDB table executed in 0 ms
-",2024/08/28/[$LATEST]d100f0330e4942b08ab3534938b2d1cf
-1724852208768,"Read from DynamoDB table executed in 0 ms
-",2024/08/28/[$LATEST]d100f0330e4942b08ab3534938b2d1cf
-1724852510513,"Read from DynamoDB table executed in 0 ms
-",2024/08/28/[$LATEST]557ac60c8af94154b8b807edd5837968
 1724852849749,"Read from DynamoDB table executed in 2197 ms
 ",2024/08/28/[$LATEST]4d55ce9d7ff84db09270351c5a7b0fcd
 1724853822292,"Read from DynamoDB table executed in 2119 ms

@@ -1,0 +1,11 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0
+StatusCode,Complete
+Messages,
+Full label,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-go3 Invocations Sum 60
+Label,Invocations
+2024/09/08 14:37:00,14
+2024/09/08 14:38:00,101
+2024/09/08 14:39:00,131
+2024/09/08 14:40:00,271
+2024/09/08 14:41:00,338
+2024/09/08 14:42:00,107

@@ -1,4 +1,12 @@
 timestamp,message,logStreamName
+1724851950095,"hello world function executed in 0 ms
+",2024/08/28/[$LATEST]d100f0330e4942b08ab3534938b2d1cf
+1724852208869,"hello world function executed in 0 ms
+",2024/08/28/[$LATEST]d100f0330e4942b08ab3534938b2d1cf
+1724852510825,"hello world function executed in 0 ms
+",2024/08/28/[$LATEST]557ac60c8af94154b8b807edd5837968
+1724852850295,"hello world function executed in 0 ms
+",2024/08/28/[$LATEST]4d55ce9d7ff84db09270351c5a7b0fcd
 1724853822947,"hello world function executed in 637 ms
 ",2024/08/28/[$LATEST]65bff5be3fac474e851d4a46f90826fe
 1725804298060,"hello world function executed in 647 ms

@@ -1,0 +1,11 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0,metric_alias_metrics_view_graph_1,metric_alias_metrics_view_graph_2
+StatusCode,Complete,Complete,Complete
+Messages,,,
+Full label,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-go3 Duration Minimum 60,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-go3 Duration Average 60,eu-north-1:AWS/Lambda FunctionName:DDI-first-architecture-go3 Duration Maximum 60
+Label,Duration,Duration,Duration
+2024/09/08 14:37:00,19.54,315.1771428571428,2081.48
+2024/09/08 14:38:00,15.44,30.100990095049497,69.74
+2024/09/08 14:39:00,14.36,27.714122128244274,79.1
+2024/09/08 14:40:00,13.45,68.66402213616236,1608.31
+2024/09/08 14:41:00,10.71,34.48499999112427,1562.19
+2024/09/08 14:42:00,14.43,28.57373831682243,116.81
